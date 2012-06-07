@@ -657,7 +657,7 @@
 		"description": "data/index.html"
 	},
 	"preload_latest_tweets_in_conversations_if_possible": {
-		"message": "Предварительно загружать последние твиты в обсуждении, если возможно.",
+		"message": "Загружать последние твиты в обсуждении, если возможно.",
 		"description": "data/index.html"
 	},
 	"pretty_wife": {
